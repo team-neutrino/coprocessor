@@ -1,0 +1,1 @@
+raspberry@raspberrypi:~ $ sudo ./py_venv/bin/python Documents/pixels.py
